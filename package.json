@@ -1,0 +1,19 @@
+{
+  "name": "atm-mshsheikh",
+  "version": "1.0.0",
+  "description": "It's a simple ATM project based on CLI and created with TS.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "atm-mshsheikh"
+  },
+  "author": "Muhammad Salman Hussain",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
